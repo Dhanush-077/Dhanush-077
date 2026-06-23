@@ -32,7 +32,7 @@ class DhanushBabu:
         self.name        = "Janakisetty Dhanush Babu"
         self.role        = "B.Tech CSE Student | AI & ML Enthusiast"
         self.university  = "PBR Visvodaya Institute of Technology and Science, Kavali"
-        self.batch       = "2024 – 2028 (2nd Year, 2nd Semester)"
+        self.batch       = "2024 – 2028 (3rd Year)"
         self.location    = "Kavali, Nellore Dist., Andhra Pradesh, India 🇮🇳"
         self.languages   = ["Telugu", "English", "Hindi"]
         self.interests   = ["Artificial Intelligence", "Deep Learning", "Open Source", "Computer Vision"]
