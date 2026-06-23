@@ -102,7 +102,7 @@ me = DhanushBabu()
 |:---|:---|:---|
 | **🛰️ TCC Detector — INSAT Satellite AI** | AI/ML model that detects Tropical Cloud Clusters in half-hourly satellite IR images and estimates weather severity | Python, CNN, Deep Learning, INSAT Data |
 | **⌨️ Virtual Keyboard & Air Mouse** | Futuristic touchless HCI system — type and control your PC using only hand gestures in the air | Python, OpenCV, MediaPipe |
-| **🎤 Gesture Control Presenter** | Control Google Slides presentations using hand gestures via laptop webcam | Python, OpenCV, Computer Vision, AI |
+| **🖐🏻 Gesture Control Presenter** | Control Google Slides presentations using hand gestures via laptop webcam | Python, OpenCV, Computer Vision, AI |
 | **😊 Facial Emotion Recognition** | Real-time browser-based AI system for recognizing facial emotions using webcam input | Python, Deep Learning, CNN, WebRTC |
 
 </div>
